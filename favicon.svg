@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="chizh.us">
+  <title>chizh.us</title>
+  <!-- Two marks of equal weight, displaced: an equals sign that has been pushed
+       out of register. One is ink, one is signal. Nothing is copied from any
+       existing identity. -->
+  <rect width="32" height="32" fill="#ebe5da"/>
+  <rect x="3" y="11" width="21" height="3.5" fill="#17161f"/>
+  <rect x="8" y="18" width="21" height="3.5" fill="#6678ff"/>
+</svg>

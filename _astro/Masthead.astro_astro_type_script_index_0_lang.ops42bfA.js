@@ -1,0 +1,1 @@
+var e=document.querySelector(`[data-progress-fill]`);if(e){let t=!1,n=()=>{t=!1;let n=document.documentElement,r=n.scrollHeight-n.clientHeight,i=r>0?Math.min(1,Math.max(0,n.scrollTop/r)):0;e.style.setProperty(`--progress`,String(i))},r=()=>{t||(t=!0,requestAnimationFrame(n))};n(),window.addEventListener(`scroll`,r,{passive:!0}),window.addEventListener(`resize`,r,{passive:!0})}

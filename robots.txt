@@ -1,0 +1,3 @@
+# Local prototype. Nothing here is published or approved for publication.
+User-agent: *
+Disallow: /
